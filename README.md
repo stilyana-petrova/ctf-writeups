@@ -1,2 +1,6 @@
-# ctf-writeups
-A collection of my personal CTF writeups: HackTheBox, TryHackMe, Vulnhub and others.
+# CTF Writeups 🕵️‍♂️🏴
+
+Welcome to my personal collection of CTF challenge solutions!  
+Here I document how I solved various challenges from different CTFs. These writeups are for educational purposes only.
+
+I'm developing my pentesting methodology and using my ideas of solving the challenges. 
