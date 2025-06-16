@@ -1,0 +1,14 @@
+.theme-light .markdown-preview-view pre {
+  background-color: #3D2412 !important; 
+  border-radius: 8px;
+  padding: 1em;
+  overflow-x: auto;
+}
+
+
+.theme-dark .markdown-preview-view pre {
+  background-color: #1A120B !important; 
+  border-radius: 8px;
+  padding: 1em;
+  overflow-x: auto;
+}

@@ -1,0 +1,75 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Cybersecurity - SoftUni": {
+      "icon": "lucide-laptop-2",
+      "unsynced": [
+        "ac599a67f6aabe12"
+      ],
+      "color": "orange"
+    },
+    "Cybersecurity - SoftUni/Introduction to Cybersecurity.md": {
+      "icon": "lucide-align-vertical-space-around",
+      "color": "pink"
+    },
+    "Cybersecurity - SoftUni/Recon_Exam": {
+      "icon": "lucide-notebook-pen",
+      "color": "yellow",
+      "unsynced": [
+        "ac599a67f6aabe12"
+      ]
+    },
+    "Cybersecurity - SoftUni/Reconnaissance Fundamentals.md": {
+      "icon": "lucide-info",
+      "color": "pink"
+    },
+    "HTB": {
+      "icon": "lucide-cuboid",
+      "unsynced": [
+        "ac599a67f6aabe12"
+      ],
+      "color": "green"
+    },
+    "Learning": {
+      "icon": "lucide-bookmark-plus",
+      "color": "purple",
+      "unsynced": [
+        "ac599a67f6aabe12"
+      ]
+    },
+    "THM": {
+      "icon": "lucide-cloud-hail",
+      "color": "red",
+      "unsynced": [
+        "ac599a67f6aabe12"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

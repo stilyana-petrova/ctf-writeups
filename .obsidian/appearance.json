@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Primary",
+  "accentColor": "#daa13e",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "custom-code-style"
+  ]
+}
