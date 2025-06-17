@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnhub/Mercury.md",
+                "file": "Vulnhub/The Planets - Mercury.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mercury"
+              "title": "The Planets - Mercury"
             }
           }
         ]
@@ -171,9 +171,9 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "47491fe32dff1b12",
+  "active": "cc9b3511a06dfc55",
   "lastOpenFiles": [
-    "Vulnhub/Mercury.md",
+    "Vulnhub/The Planets - Mercury.md",
     "TryHackMe",
     "Vulnhub",
     "THM/20. Writing Pentest Reports.md",
