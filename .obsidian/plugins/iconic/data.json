@@ -25,29 +25,24 @@
     "Cybersecurity - SoftUni": {
       "icon": "lucide-laptop-2",
       "unsynced": [
-        "ac599a67f6aabe12"
+        "ac599a67f6aabe12",
+        "cfdfb20cf8610b31"
       ],
       "color": "orange"
-    },
-    "Cybersecurity - SoftUni/Introduction to Cybersecurity.md": {
-      "icon": "lucide-align-vertical-space-around",
-      "color": "pink"
     },
     "Cybersecurity - SoftUni/Recon_Exam": {
       "icon": "lucide-notebook-pen",
       "color": "yellow",
       "unsynced": [
-        "ac599a67f6aabe12"
+        "ac599a67f6aabe12",
+        "cfdfb20cf8610b31"
       ]
-    },
-    "Cybersecurity - SoftUni/Reconnaissance Fundamentals.md": {
-      "icon": "lucide-info",
-      "color": "pink"
     },
     "HTB": {
       "icon": "lucide-cuboid",
       "unsynced": [
-        "ac599a67f6aabe12"
+        "ac599a67f6aabe12",
+        "cfdfb20cf8610b31"
       ],
       "color": "green"
     },
@@ -55,15 +50,35 @@
       "icon": "lucide-bookmark-plus",
       "color": "purple",
       "unsynced": [
-        "ac599a67f6aabe12"
+        "ac599a67f6aabe12",
+        "cfdfb20cf8610b31"
       ]
     },
     "THM": {
       "icon": "lucide-cloud-hail",
       "color": "red",
       "unsynced": [
-        "ac599a67f6aabe12"
+        "ac599a67f6aabe12",
+        "cfdfb20cf8610b31"
       ]
+    },
+    "TryHackMe": {
+      "icon": "lucide-cloud-drizzle",
+      "unsynced": [
+        "cfdfb20cf8610b31"
+      ],
+      "color": "red"
+    },
+    "Vulnhub": {
+      "icon": "vault",
+      "color": "cyan",
+      "unsynced": [
+        "cfdfb20cf8610b31"
+      ]
+    },
+    "Vulnhub/Mercury.md": {
+      "icon": "lucide-earth",
+      "color": "red"
     }
   },
   "bookmarkIcons": {},
