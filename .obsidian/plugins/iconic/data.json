@@ -68,13 +68,6 @@
         "cfdfb20cf8610b31"
       ],
       "color": "red"
-    },
-    "Vulnhub": {
-      "icon": "vault",
-      "color": "cyan",
-      "unsynced": [
-        "cfdfb20cf8610b31"
-      ]
     }
   },
   "bookmarkIcons": {},
