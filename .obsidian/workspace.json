@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnhub/The Planets - Earth.md",
+                "file": "Vulnhub/Noob 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Planets - Earth"
+              "title": "Noob 1"
             }
           }
         ]
@@ -174,7 +174,7 @@
   "active": "cc9b3511a06dfc55",
   "lastOpenFiles": [
     "Vulnhub/The Planets - Mercury.md",
-    "Vulnhub/The Planets - Earth.md",
+    "Vulnhub/Noob 1.md",
     "Attachments/Pasted image 20250617140135.png",
     "Attachments",
     "Vulnhub/Mercury.canvas",
