@@ -33,4 +33,4 @@ I downloaded the php file for reverse shell and changed the info, uploaded the f
 ![[Pasted image 20250619211230.png]]
 I find the user and the user flag.
 
-I will come tomorrow and make a priviledge e
+I will come tomorrow and make a privilege escalation.
