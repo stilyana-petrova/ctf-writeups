@@ -31,6 +31,23 @@ I downloaded the php file for reverse shell and changed the info, uploaded the f
 
 
 ![[Pasted image 20250619211230.png]]
-I find the user and the user flag.
+I found the user and the user flag.
 
-I will come tomorrow and make a privilege escalation.
+
+I run:
+```bash
+find / -perm -u=s -type f 2>/dev/null
+```
+or as in the hint:
+```bash
+find / -user root -perm -4000 -exec ls -ldb {} \;
+```
+to answer the following question: On the system, search for all SUID files. Which file stands out?
+
+![[Pasted image 20250620213900.png]]
+
+Answer: /bin/systemctl
+
+I've done some research for this file in this site:
+![[Pasted image 20250620214426.png]]
+
