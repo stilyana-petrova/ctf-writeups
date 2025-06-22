@@ -1,4 +1,4 @@
-
+https://tryhackme.com/room/vulnversity
 # Scope
 The target machine was assigned the IP address `10.10.180.100`.
 # Port Scanning
@@ -29,6 +29,7 @@ Then I wanted to upload a file and send the request to `Intruder` to find which 
 I downloaded the [php file](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php) for reverse shell and changed the info, uploaded the file and `nc -lvnp 1234` to listen on that port and I successfully established reverse shell:
 ![[Pasted image 20250619211733.png]]
 
+# Reverse Shell
 
 ![[Pasted image 20250619211230.png]]
 I found the user and the user flag.
@@ -61,3 +62,5 @@ Then I started a web server and in the target's shell I wget the root.service
 And when I start this service I get a reverse shell on my listener as a root, so I had to find the flag.
 
 ![[Pasted image 20250622200244.png]]
+
+So with that, my first THM lab is solved 🥳
