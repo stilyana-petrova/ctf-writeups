@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Vulnversity.md",
+                "file": "TryHackMe/Light.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vulnversity"
+              "title": "Light"
             }
           }
         ]
@@ -171,20 +171,22 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "47491fe32dff1b12",
+  "active": "cc9b3511a06dfc55",
   "lastOpenFiles": [
-    "TryHackMe/Light.md",
+    "Attachments/Pasted image 20250622221943.png",
+    "Attachments/Pasted image 20250622221836.png",
+    "Attachments/Pasted image 20250622221823.png",
+    "Attachments/Pasted image 20250622221817.png",
+    "Attachments/Pasted image 20250622221733.png",
+    "Attachments/Pasted image 20250622221703.png",
+    "Attachments/Pasted image 20250622221624.png",
     "TryHackMe/Vulnversity.md",
+    "TryHackMe/Light.md",
+    "TryHackMe/Light.md",
     "Attachments/Pasted image 20250622200244.png",
     "Attachments/Pasted image 20250622195751.png",
     "Attachments/Pasted image 20250622195334.png",
     "Attachments/Pasted image 20250620214426.png",
-    "Attachments/Pasted image 20250620213900.png",
-    "Attachments/Pasted image 20250619211733.png",
-    "Attachments/Pasted image 20250619211230.png",
-    "Attachments/Pasted image 20250619211112.png",
-    "Attachments/Pasted image 20250618160616.png",
-    "Attachments/Pasted image 20250618160407.png",
     "Vulnhub/Noob 1.md",
     "Vulnhub/The Planets - Mercury.md",
     "Attachments",
@@ -213,8 +215,6 @@
     "THM/18. Nessus.md",
     "Learning/Using BurpSuite.md",
     "Learning/Scanning Methodology.md",
-    "THM/17. Pyramid Of Pain.md",
-    "THM/Labs-CTFs/2. The Sticker Shop.md",
     "THM/Labs-CTFs",
     "Learning",
     "THM/Pentest",
