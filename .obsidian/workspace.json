@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Vulnversity.md",
+                "file": "TryHackMe/-Vulnversity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vulnversity"
+              "title": "-Vulnversity"
             }
           }
         ]
@@ -171,7 +171,7 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "cc9b3511a06dfc55",
+  "active": "47491fe32dff1b12",
   "lastOpenFiles": [
     "Attachments/Pasted image 20250620214426.png",
     "Attachments/Pasted image 20250620213900.png",
@@ -181,7 +181,7 @@
     "Attachments/Pasted image 20250618160616.png",
     "Attachments/Pasted image 20250618160407.png",
     "Vulnhub/Noob 1.md",
-    "TryHackMe/Vulnversity.md",
+    "TryHackMe/-Vulnversity.md",
     "Vulnhub/The Planets - Mercury.md",
     "Attachments/Pasted image 20250617140135.png",
     "Attachments",

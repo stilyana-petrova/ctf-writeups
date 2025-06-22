@@ -48,6 +48,7 @@ to answer the following question: On the system, search for all SUID files. Whic
 
 Answer: /bin/systemctl
 
-I've done some research for this file in this site:
+I've done some research for this file in a site:
 ![[Pasted image 20250620214426.png]]
 
+...
