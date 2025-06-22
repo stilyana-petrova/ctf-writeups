@@ -26,7 +26,7 @@ When navigating to `http://10.10.180.100:3333/internal`, I discovered a **file u
 I launched **Burp Suite** and enabled intercept mode to monitor and manipulate HTTP requests.
 Then I wanted to upload a file and send the request to `Intruder` to find which extension is allowed.
 
-I downloaded the php file for reverse shell and changed the info, uploaded the file and `nc -lvnp 1234` to listen on that port and I successfully established reverse shell:
+I downloaded the [php file](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php) for reverse shell and changed the info, uploaded the file and `nc -lvnp 1234` to listen on that port and I successfully established reverse shell:
 ![[Pasted image 20250619211733.png]]
 
 
