@@ -53,4 +53,11 @@ I've done some research for this file in a site:
 
 ...
 
-I first needed to create a service:
+I first needed to create a service - root.service:
+![[Pasted image 20250622195334.png]]
+
+Then I started a web server and in the target's shell I wget the root.service
+
+And when I start this service I get a reverse shell on my listener as a root, so I had to find the flag.
+
+![[Pasted image 20250622200244.png]]
