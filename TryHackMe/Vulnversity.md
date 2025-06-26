@@ -7,6 +7,7 @@ To identify open ports and running services, I conducted a service/version detec
 ```bash
 sudo nmap -sV 10.10.180.100
 ```
+
 ![[Pasted image 20250618160407.png]]
 
 The scan revealed **six open ports**. The results indicated that a web server was accessible on **port 3333**, among other services.
