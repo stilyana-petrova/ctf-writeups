@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Light.md",
-                "mode": "source",
+                "file": "TryHackMe/Vulnversity.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Light"
+              "title": "Vulnversity"
             }
           }
         ]
@@ -172,9 +172,10 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "bbc8db3b05c18b88",
+  "active": "47491fe32dff1b12",
   "lastOpenFiles": [
     "TryHackMe/Vulnversity.md",
+    "Untitled.md",
     "TryHackMe/Light.md",
     "22-06-2025.md",
     "Attachments/Pasted image 20250622221943.png",
