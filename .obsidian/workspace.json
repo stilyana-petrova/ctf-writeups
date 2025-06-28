@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Vulnversity.md",
-                "mode": "preview",
+                "file": "HachTheBox/Machines/Cap.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vulnversity"
+              "title": "Cap"
             }
           }
         ]
@@ -172,22 +172,26 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "47491fe32dff1b12",
+  "active": "bbc8db3b05c18b88",
   "lastOpenFiles": [
-    "TryHackMe/Vulnversity.md",
+    "Attachments/Pasted image 20250628150043.png",
+    "Attachments/Pasted image 20250628145640.png",
+    "Attachments/Pasted image 20250628145304.png",
+    "Attachments/Pasted image 20250628144329.png",
+    "Attachments/Pasted image 20250628144311.png",
+    "Attachments/Pasted image 20250628144256.png",
+    "Attachments/Pasted image 20250628144249.png",
+    "HachTheBox/Machines",
     "Untitled.md",
+    "HachTheBox/Machines/Cap.md",
+    "HachTheBox",
+    "TryHackMe/Vulnversity.md",
     "TryHackMe/Light.md",
     "22-06-2025.md",
     "Attachments/Pasted image 20250622221943.png",
     "Attachments/Pasted image 20250622221836.png",
     "Attachments/Pasted image 20250622221823.png",
     "Attachments/Pasted image 20250622221817.png",
-    "Attachments/Pasted image 20250622221733.png",
-    "Attachments/Pasted image 20250622221703.png",
-    "Attachments/Pasted image 20250622221624.png",
-    "Attachments/Pasted image 20250622200244.png",
-    "Attachments/Pasted image 20250622195751.png",
-    "Attachments/Pasted image 20250622195334.png",
     "Vulnhub/Noob 1.md",
     "Vulnhub/The Planets - Mercury.md",
     "Attachments",
@@ -214,12 +218,8 @@
     "THM/5. Nmap.md",
     "Learning/Backdoors.md",
     "THM/18. Nessus.md",
-    "Learning/Using BurpSuite.md",
-    "Learning/Scanning Methodology.md",
     "THM/Labs-CTFs",
     "Learning",
-    "THM/Pentest",
-    "Project-Notes",
-    "Cybersecurity - SoftUni"
+    "THM/Pentest"
   ]
 }

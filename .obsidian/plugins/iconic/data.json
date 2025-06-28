@@ -46,6 +46,13 @@
       ],
       "color": "green"
     },
+    "HachTheBox": {
+      "icon": "lucide-box",
+      "color": "green",
+      "unsynced": [
+        "cfdfb20cf8610b31"
+      ]
+    },
     "Learning": {
       "icon": "lucide-bookmark-plus",
       "color": "purple",
