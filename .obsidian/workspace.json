@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3169fe178e3bebd5",
+        "id": "58bd2bdef92e1b37",
         "type": "tabs",
         "children": [
           {
-            "id": "bbc8db3b05c18b88",
+            "id": "bed0f27eeafad15a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,18 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Dog"
-            }
-          },
-          {
-            "id": "4bd05cbcece6bb87",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Pasted image 20250629190327.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250629190327"
             }
           }
         ]
@@ -154,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Vulnversity.md",
+                "file": "HachTheBox/Machines/Dog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vulnversity"
+              "title": "Outline of Dog"
             }
           },
           {
@@ -174,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -193,12 +181,13 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "bbc8db3b05c18b88",
+  "active": "bed0f27eeafad15a",
   "lastOpenFiles": [
+    "HachTheBox/Machines/Dog.md",
+    "Attachments/Pasted image 20250629193913.png",
     "Attachments/Pasted image 20250629192405.png",
     "Attachments/Pasted image 20250629192240.png",
     "output/Pasted image 20250629191923.png",
-    "HachTheBox/Machines/Dog.md",
     "output",
     "Attachments/Pasted image 20250629191923.png",
     "TryHackMe/Light.md",
@@ -207,9 +196,7 @@
     "Attachments/Pasted image 20250629191341.png",
     "Attachments/Pasted image 20250629191316.png",
     "Attachments/Pasted image 20250629190327.png",
-    "Attachments/Pasted image 20250629185646.png",
     "HachTheBox/Machines/Cap.md",
-    "Attachments/Pasted image 20250628144311.png",
     "HachTheBox/Machines",
     "Untitled.md",
     "HachTheBox",
