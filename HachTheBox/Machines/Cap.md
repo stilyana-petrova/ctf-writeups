@@ -1,5 +1,5 @@
 scope -> 10.10.10.245
-First, I tried enumeration the open ports with nmap and were discovered 3 open ports:
+First, I tried enumerating the open ports with nmap and were discovered 3 open ports:
 
 ```bash
 sudo nmap -sC -sV -vv 10.10.10.245 -oN cap_scan.txt
