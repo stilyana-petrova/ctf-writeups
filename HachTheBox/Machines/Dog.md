@@ -109,7 +109,7 @@ If we type:
 ```bash
 cat /etc/passwd
 ```
-we can see that there is a user named: `johncusack`
+we can see that there are users named: `johncusack` and `jobert`
 
 ![](../../Attachments/Pasted%20image%2020250629213612.png)
 
@@ -139,9 +139,13 @@ $database = 'mysql://root:BackDropJ2024DS2024@127.0.0.1/backdrop';
 
 Then a login with the following (already found) credentials was successful: `tiffany@dog.htb:BackDropJ2024DS2024` and I was able to access the admin panel.
 
-![](Pasted%20image%2020250630010809.png)
+![](../../Attachments/Pasted%20image%2020250630010809.png)
+
+I clicked `Add new modules for more functionality` and I need to add a new module with revshell...
 
 
+
+---
 
 ```bash
 python3 52021.py -u http://10.10.11.57 -l admin -p password
@@ -153,4 +157,5 @@ python3 52021.py -u http://10.10.11.57 -l admin -p password
 
 ***What I learned?***
 - If we have an exposed git repo, it's good to download it.
+- It's good to check the source code, robots.txt, /.git repo, and others
 - 

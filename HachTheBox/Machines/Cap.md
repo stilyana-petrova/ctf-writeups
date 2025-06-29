@@ -37,10 +37,10 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 
 On the web server I manage to do IDOR attack as another user and downloaded the 0.pcap file. And in the logs of that file there was a password.
-![[Pasted image 20250628144249.png]]
-![[Pasted image 20250628144256.png]]
+![](../../Attachments/Pasted%20image%2020250628144249.png)
+![](../../Attachments/Pasted%20image%2020250628144256.png)
 
-![[Pasted image 20250628144311.png]]
+![](../../Attachments/Pasted%20image%2020250628144311.png)
 
 
 
@@ -49,16 +49,16 @@ On the web server I manage to do IDOR attack as another user and downloaded the 
 ```
 
 With this password we were able to connect with ftp and get the user flag. 
-![[Pasted image 20250628144329.png]]
+![](../../Attachments/Pasted%20image%2020250628144329.png)
 
 
 The password was the same for ssh too. So I logged with ssh and started linpeas. It showed a files with capabilities to obtain root privileges: `/usr/bin/python3.8`
 
-![[Pasted image 20250628150043.png]]
+![](../../Attachments/Pasted%20image%2020250628150043.png)
 
 
 In the ssh session I run python code to execute the commands as root.
 
-![[Pasted image 20250628145304.png]]
+![](../../Attachments/Pasted%20image%2020250628145304.png)
 
-And after i become root I was able to see the flag.
+And after I become root I was able to see the flag.

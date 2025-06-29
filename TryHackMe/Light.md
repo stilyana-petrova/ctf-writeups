@@ -6,7 +6,7 @@ We are given a username to start with: smokey
 nc 10.10.228.50 1337
 ```
 
-![[Pasted image 20250622221624.png]]
+![](../Attachments/Pasted image 20250622221624.png)
 
 With this error when typing `'`, we are sure that there is sql injection possible.
 
