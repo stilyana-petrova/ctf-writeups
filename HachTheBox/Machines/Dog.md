@@ -129,7 +129,18 @@ I went to `/.git/logs/HEAD` and found another email: `dog@dog.htb` which could b
 
 ![](../../Attachments/Pasted%20image%2020250629231349.png)
 
-I researched a bit and found a tool for downloading a git repo from a website: [git-dump](https://github.com/internetwache/GitTools) only to download the directories listed in the browser, so I change the tool to: [GitHack](https://github.com/lijiejie/GitHack) 
+I researched a bit and found a tool for downloading a git repo from a website: [GitHack](https://github.com/lijiejie/GitHack). I opened the file `settings.php` and found credentials from the connection string: `root:BackDropJ2024DS2024`
+
+![](../../Attachments/Pasted%20image%2020250630005145.png)
+
+```php
+$database = 'mysql://root:BackDropJ2024DS2024@127.0.0.1/backdrop';
+```
+
+Then a login with the following (already found) credentials was successful: `tiffany@dog.htb:BackDropJ2024DS2024` and I was able to access the admin panel.
+
+![](Pasted%20image%2020250630010809.png)
+
 
 
 ```bash
