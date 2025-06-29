@@ -129,7 +129,10 @@ I went to `/.git/logs/HEAD` and found another email: `dog@dog.htb` which could b
 
 ![](../../Attachments/Pasted%20image%2020250629231349.png)
 
-I researched a bit and found a tool for downloading a git repo from a website: `git-dump` - [github](https://github.com/arthaud/git-dumper.git)
+I researched a bit and found a tool for downloading a git repo from a website: `git-dump` - [github](https://github.com/internetwache/GitTools.git)
+
+![](../../Attachments/Pasted%20image%2020250630001114.png)
+
 
 
 ```bash
