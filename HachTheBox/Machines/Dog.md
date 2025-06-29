@@ -114,4 +114,5 @@ we can see that there is a user named: `johncusack`
 
 ![](../../Attachments/Pasted%20image%2020250629213612.png)
 
-In [exploitdb](https://www.exploit-db.com) I found exploit for Authenticated RC 
+In [exploitdb](https://www.exploit-db.com) I found exploit for the same version of Backdrop for Authenticated RCE:
+![](../../Attachments/Pasted%20image%2020250629214721.png)
