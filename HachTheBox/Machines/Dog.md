@@ -103,3 +103,6 @@ When navigating through core directory I found the admin bar to be `Backdrop CMS
 But the most interesting endpoint is `/shell`:
 
 ![](../../Attachments/Pasted%20image%2020250629201352.png)
+
+# Privilege Escalation 
+So, our current user is www-data. And we have to escalate our privileges to a user and then to root.

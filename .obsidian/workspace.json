@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HachTheBox/Machines/Dog.md",
+                "file": "TryHackMe/Vulnversity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dog"
+              "title": "Vulnversity"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HachTheBox/Machines/Dog.md",
+                "file": "TryHackMe/Vulnversity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dog"
+              "title": "Outline of Vulnversity"
             }
           },
           {
@@ -184,20 +184,19 @@
   },
   "active": "bed0f27eeafad15a",
   "lastOpenFiles": [
+    "TryHackMe/Light.md",
+    "HachTheBox/Machines/Dog.md",
     "Attachments/Pasted image 20250629201352.png",
     "Attachments/Pasted image 20250629200814.png",
-    "HachTheBox/Machines/Dog.md",
     "Attachments/Pasted image 20250629193913.png",
     "Attachments/Pasted image 20250629192405.png",
     "Attachments/Pasted image 20250629192240.png",
     "output/Pasted image 20250629191923.png",
     "output",
     "Attachments/Pasted image 20250629191923.png",
-    "TryHackMe/Light.md",
     "Attachments/Pasted image 20250629191829.png",
     "Attachments/Pasted image 20250629191643.png",
     "Attachments/Pasted image 20250629191341.png",
-    "Attachments/Pasted image 20250629191316.png",
     "HachTheBox/Machines/Cap.md",
     "HachTheBox/Machines",
     "Untitled.md",
