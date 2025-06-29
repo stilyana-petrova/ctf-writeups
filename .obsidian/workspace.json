@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +184,8 @@
   },
   "active": "bed0f27eeafad15a",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250629201352.png",
+    "Attachments/Pasted image 20250629200814.png",
     "HachTheBox/Machines/Dog.md",
     "Attachments/Pasted image 20250629193913.png",
     "Attachments/Pasted image 20250629192405.png",
@@ -195,7 +198,6 @@
     "Attachments/Pasted image 20250629191643.png",
     "Attachments/Pasted image 20250629191341.png",
     "Attachments/Pasted image 20250629191316.png",
-    "Attachments/Pasted image 20250629190327.png",
     "HachTheBox/Machines/Cap.md",
     "HachTheBox/Machines",
     "Untitled.md",

@@ -95,4 +95,11 @@ DOWNLOADED: 4612 - FOUND: 4
 
 ```
 
-When navigating through admin
+When navigating through core directory I found the admin bar to be `Backdrop CMS v1.27.1`:
+
+![](../../Attachments/Pasted%20image%2020250629200814.png)
+
+
+But the most interesting endpoint is `/shell`:
+
+![](../../Attachments/Pasted%20image%2020250629201352.png)
