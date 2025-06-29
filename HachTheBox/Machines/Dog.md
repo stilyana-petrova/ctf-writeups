@@ -28,7 +28,6 @@ From the scan we saw port 22 and 80 opened. When I opened the web application th
 
 ![](../../Attachments/Pasted%20image%2020250629193913.png)
 
-And just from looking at the first blog post we had a possible username: `dogBackDropSystem`
 
 # Directory Enumeration
 I started `dirb`.
@@ -116,3 +115,9 @@ we can see that there is a user named: `johncusack`
 
 In [exploitdb](https://www.exploit-db.com) I found exploit for the same version of Backdrop for Authenticated RCE:
 ![](../../Attachments/Pasted%20image%2020250629214721.png)
+
+Before we could exploit the vulnerability we need a valid credentials.
+
+```bash
+python3 52021.py -u http://10.10.11.57 -l admin -p password
+```
