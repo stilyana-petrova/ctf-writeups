@@ -1,5 +1,5 @@
 {
-  "output": "output",
+  "output": "",
   "attachment": "",
   "displayImageAsHtml": false,
   "GFM": true,
@@ -7,8 +7,8 @@
   "removeOutgoingLinkBrackets": false,
   "includeFileName": false,
   "customFileName": "",
-  "customAttachPath": "/Attachments",
+  "customAttachPath": "Attachments",
   "relAttachPath": true,
-  "convertWikiLinksToMarkdown": false,
+  "convertWikiLinksToMarkdown": true,
   "removeYamlHeader": false
 }

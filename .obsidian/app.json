@@ -1,5 +1,5 @@
 {
   "readableLineLength": false,
   "attachmentFolderPath": "Attachments",
-  "useMarkdownLinks": false
+  "useMarkdownLinks": true
 }
