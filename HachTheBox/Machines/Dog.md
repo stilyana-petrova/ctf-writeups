@@ -125,7 +125,7 @@ With that I have an email `tiffany@dog.htb` and it seems that I cannot do anythi
 
 ![](../../Attachments/Pasted%20image%2020250629231119.png)
 
-I the `/.git/logs/HEAD` I found another email: `dog@dog.htb`
+I went to `/.git/logs/HEAD` and found another email: `dog@dog.htb` which could be a potential username: `dog`.
 
 ![](../../Attachments/Pasted%20image%2020250629231349.png)
 
@@ -140,6 +140,6 @@ python3 52021.py -u http://10.10.11.57 -l admin -p password
 
 ---
 
-***What I learned?
+***What I learned?***
 - If we have an exposed git repo, it's good to download it.
 - 
