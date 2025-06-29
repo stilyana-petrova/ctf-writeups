@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HachTheBox/Machines/Cap.md",
+                "file": "HachTheBox/Machines/Dog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cap"
+              "title": "Dog"
             }
           }
         ]
@@ -150,14 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Vulnversity"
             }
+          },
+          {
+            "id": "03d65b2787c0dcab",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,11 +183,13 @@
   },
   "active": "bbc8db3b05c18b88",
   "lastOpenFiles": [
+    "HachTheBox/Machines/Dog.md",
+    "Attachments/Pasted image 20250629185646.png",
+    "HachTheBox/Machines/Cap.md",
     "Attachments/Pasted image 20250628144311.png",
     "Attachments/Pasted image 20250628144256.png",
     "Attachments/Pasted image 20250628144249.png",
     "Attachments/Pasted image 20250628144329.png",
-    "HachTheBox/Machines/Cap.md",
     "Attachments/Pasted image 20250628150043.png",
     "Attachments/Pasted image 20250628145640.png",
     "Attachments/Pasted image 20250628145304.png",
@@ -190,7 +201,6 @@
     "22-06-2025.md",
     "Attachments/Pasted image 20250622221943.png",
     "Attachments/Pasted image 20250622221836.png",
-    "Attachments/Pasted image 20250622221823.png",
     "Vulnhub/Noob 1.md",
     "Vulnhub/The Planets - Mercury.md",
     "Attachments",
@@ -216,7 +226,6 @@
     "VulnHub",
     "THM/5. Nmap.md",
     "Learning/Backdoors.md",
-    "THM/18. Nessus.md",
     "THM/Labs-CTFs",
     "Learning",
     "THM/Pentest"
