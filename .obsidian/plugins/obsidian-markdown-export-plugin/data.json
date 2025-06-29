@@ -1,0 +1,14 @@
+{
+  "output": "output",
+  "attachment": "",
+  "displayImageAsHtml": false,
+  "GFM": true,
+  "fileNameEncode": true,
+  "removeOutgoingLinkBrackets": false,
+  "includeFileName": false,
+  "customFileName": "",
+  "customAttachPath": "/Attachments",
+  "relAttachPath": true,
+  "convertWikiLinksToMarkdown": false,
+  "removeYamlHeader": false
+}
