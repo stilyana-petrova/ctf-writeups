@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Vulnversity.md",
+                "file": "HachTheBox/Machines/Dog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vulnversity"
+              "title": "Dog"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Vulnversity.md",
+                "file": "HachTheBox/Machines/Dog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vulnversity"
+              "title": "Outline of Dog"
             }
           },
           {
@@ -184,6 +184,8 @@
   },
   "active": "bed0f27eeafad15a",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250629213612.png",
+    "TryHackMe/Vulnversity.md",
     "TryHackMe/Light.md",
     "HachTheBox/Machines/Dog.md",
     "Attachments/Pasted image 20250629201352.png",
@@ -201,7 +203,6 @@
     "HachTheBox/Machines",
     "Untitled.md",
     "HachTheBox",
-    "TryHackMe/Vulnversity.md",
     "22-06-2025.md",
     "Vulnhub/Noob 1.md",
     "Vulnhub/The Planets - Mercury.md",

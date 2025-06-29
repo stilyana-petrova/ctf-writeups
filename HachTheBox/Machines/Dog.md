@@ -106,3 +106,12 @@ But the most interesting endpoint is `/shell`:
 
 # Privilege Escalation 
 So, our current user is www-data. And we have to escalate our privileges to a user and then to root.
+If we type:
+```bash
+cat /etc/passwd
+```
+we can see that there is a user named: `johncusack`
+
+![](../../Attachments/Pasted%20image%2020250629213612.png)
+
+In [exploitdb](https://www.exploit-db.com) I found exploit for Authenticated RC 
