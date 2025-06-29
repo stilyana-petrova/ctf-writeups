@@ -29,3 +29,70 @@ From the scan we saw port 22 and 80 opened. When I opened the web application th
 ![](../../Attachments/Pasted%20image%2020250629193913.png)
 
 And just from looking at the first blog post we had a possible username: `dogBackDropSystem`
+
+# Directory Enumeration
+I started `dirb`.
+```bash
+dirb http://10.10.11.58/ /usr/share/wordlists/dirb/common.txt
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+START_TIME: Sun Jun 29 12:54:54 2025
+URL_BASE: http://10.10.11.58/
+WORDLIST_FILES: /usr/share/wordlists/dirb/common.txt
+
+-----------------
+
+GENERATED WORDS: 4612                                                          
+
+---- Scanning URL: http://10.10.11.58/ ----
++ http://10.10.11.58/.git/HEAD (CODE:200|SIZE:23)                                                 
+==> DIRECTORY: http://10.10.11.58/core/                                                           
+==> DIRECTORY: http://10.10.11.58/files/                                                          
++ http://10.10.11.58/index.php (CODE:200|SIZE:13332)                                              
+==> DIRECTORY: http://10.10.11.58/layouts/                                                        
+==> DIRECTORY: http://10.10.11.58/modules/                                                        
++ http://10.10.11.58/robots.txt (CODE:200|SIZE:1198)                                              
++ http://10.10.11.58/server-status (CODE:403|SIZE:276)                                            
+==> DIRECTORY: http://10.10.11.58/shell/                                                          
+==> DIRECTORY: http://10.10.11.58/sites/                                                          
+==> DIRECTORY: http://10.10.11.58/themes/                                                         
+                                                                                                  
+---- Entering directory: http://10.10.11.58/core/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.                        
+    (Use mode '-w' if you want to scan it anyway)
+                                                                                                  
+---- Entering directory: http://10.10.11.58/files/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.                        
+    (Use mode '-w' if you want to scan it anyway)
+                                                                                                  
+---- Entering directory: http://10.10.11.58/layouts/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.                        
+    (Use mode '-w' if you want to scan it anyway)
+                                                                                                  
+---- Entering directory: http://10.10.11.58/modules/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.                        
+    (Use mode '-w' if you want to scan it anyway)
+                                                                                                  
+---- Entering directory: http://10.10.11.58/shell/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.                        
+    (Use mode '-w' if you want to scan it anyway)
+                                                                                                  
+---- Entering directory: http://10.10.11.58/sites/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.                        
+    (Use mode '-w' if you want to scan it anyway)
+                                                                                                  
+---- Entering directory: http://10.10.11.58/themes/ ----
+(!) WARNING: Directory IS LISTABLE. No need to scan it.                        
+    (Use mode '-w' if you want to scan it anyway)
+                                                                               
+-----------------
+END_TIME: Sun Jun 29 12:58:33 2025
+DOWNLOADED: 4612 - FOUND: 4
+
+```
+
+When navigating through admin
