@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Light.md",
+                "file": "HachTheBox/Machines/Dog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Light"
+              "title": "Dog"
             }
           }
         ]
@@ -184,6 +184,8 @@
   },
   "active": "bed0f27eeafad15a",
   "lastOpenFiles": [
+    "TryHackMe/Vulnversity.md",
+    "TryHackMe/Light.md",
     "HachTheBox/Machines/Cap.md",
     "HachTheBox/Machines/Dog.md",
     "Attachments/Pasted image 20250630010809.png",
@@ -195,8 +197,6 @@
     "Attachments/Pasted image 20250629225225.png",
     "Attachments/Pasted image 20250629214721.png",
     "Attachments/Pasted image 20250629213612.png",
-    "TryHackMe/Vulnversity.md",
-    "TryHackMe/Light.md",
     "Attachments/Pasted image 20250629201352.png",
     "output",
     "HachTheBox/Machines",
