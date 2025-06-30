@@ -176,4 +176,4 @@ And like this I obtained the root flag too.
 ***What I learned?***
 - If we have an exposed git repo, it's good to download it.
 - It's good to check the source code, robots.txt, /.git repo, and others.
-- A way for privesc.
+- A way for privesc using the bee command.
