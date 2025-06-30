@@ -141,15 +141,13 @@ Then a login with the following (already found) credentials was successful: `tif
 
 ![](../../Attachments/Pasted%20image%2020250630010809.png)
 
-I clicked `Add new modules for more functionality` and I need to add a new module with revshell...
-
-
-
----
+I ran the exploit:
 
 ```bash
-python3 52021.py -u http://10.10.11.57 -l admin -p password
+python3 52021.py -u http://10.10.11.57 -l tiffany -p BackDropJ2024DS2024
 ```
+
+![](../../Attachments/Pasted%20image%2020250630155728.png)
 
 
 
