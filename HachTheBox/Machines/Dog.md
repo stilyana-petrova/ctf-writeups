@@ -149,7 +149,14 @@ python3 52021.py -u http://10.10.11.57 -l tiffany -p BackDropJ2024DS2024
 
 ![](../../Attachments/Pasted%20image%2020250630155728.png)
 
-With that I 
+With that I created new module for web shell as www-data. (which was unnecessary I think)
+
+I successfully logged into SSH with user `johncusack` and password: `BackDropJ2024DS2024`
+
+![](../../Attachments/Pasted%20image%2020250630164349.png)
+
+With this ssh connection I get the user flag.
+
 
 ---
 
