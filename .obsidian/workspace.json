@@ -162,12 +162,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +181,7 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "bed0f27eeafad15a",
+  "active": "47491fe32dff1b12",
   "lastOpenFiles": [
     "Attachments/Pasted image 20250630170912.png",
     "Attachments/Pasted image 20250630170802.png",
