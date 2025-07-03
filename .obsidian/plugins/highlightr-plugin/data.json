@@ -11,7 +11,10 @@
     "Blue": "#ADCCFFA6",
     "Purple": "#D2B3FFA6",
     "Grey": "#CACFD9A6",
-    "Brown": "#714517A6"
+    "Brown": "#714517A6",
+    "dark-green1": "#083108E3",
+    "dark-green2": "#314F31E8",
+    "dark-blue1": "#283858D9"
   },
   "highlighterOrder": [
     "Pink",
@@ -23,6 +26,9 @@
     "Blue",
     "Purple",
     "Grey",
-    "Brown"
+    "Brown",
+    "dark-green1",
+    "dark-green2",
+    "dark-blue1"
   ]
 }
