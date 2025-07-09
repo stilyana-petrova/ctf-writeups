@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HachTheBox/Machines/Cap.md",
+                "file": "HachTheBox/Machines/Dog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cap"
+              "title": "Dog"
             }
           },
           {
@@ -229,6 +229,7 @@
   },
   "active": "0d859a7af2ed04a9",
   "lastOpenFiles": [
+    "HachTheBox/Machines/Cap.md",
     "THM/18. -Nessus.md",
     "THM/24. -Linux Privilege Escalation.md",
     "Attachments/Pasted image 20250703212820.png",
