@@ -231,6 +231,10 @@
   "active": "0d859a7af2ed04a9",
   "lastOpenFiles": [
     "HachTheBox/Machines/Cap.md",
+    "HachTheBox/Machines/Dog.md",
+    "HachTheBox/Challenges",
+    "TryHackMe/Vulnversity.md",
+    "TryHackMe/Light.md",
     "THM/18. -Nessus.md",
     "THM/24. -Linux Privilege Escalation.md",
     "Attachments/Pasted image 20250703212820.png",
@@ -264,17 +268,12 @@
     "Labs/Labs HTB.md",
     "Labs/Light THM.md",
     "Labs",
-    "HTB/1. Linux Fundamentals.md",
-    "HTB/2. SQL Injection.md",
-    "THM/19. Security Engineer Intro.md",
-    "THM/Labs-CTFs/1. Vulnversity.md",
     "Cybersecurity - SoftUni/Recon_Exam",
     "VulnHub",
     "THM/Labs-CTFs",
     "Learning",
     "THM/Pentest",
     "Project-Notes",
-    "Attachments",
-    "Cybersecurity - SoftUni"
+    "Attachments"
   ]
 }
