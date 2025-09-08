@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Light.md",
+                "file": "HachTheBox/Machines/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Light"
+              "title": "Untitled"
             }
           },
           {
@@ -230,11 +230,14 @@
   },
   "active": "0d859a7af2ed04a9",
   "lastOpenFiles": [
+    "TryHackMe/Light.md",
+    "HachTheBox/Machines/Untitled.md",
+    "HachTheBox/Challenges/The Suspicious Reviewer.md",
+    "Attachments/Pasted image 20250831205003.png",
     "TryHackMe/Vulnversity.md",
     "HachTheBox/Machines/Dog.md",
     "HachTheBox/Machines/Cap.md",
     "HachTheBox/Challenges",
-    "TryHackMe/Light.md",
     "THM/18. -Nessus.md",
     "THM/24. -Linux Privilege Escalation.md",
     "Attachments/Pasted image 20250703212820.png",
@@ -259,14 +262,12 @@
     "Attachments/Pasted image 20250626151201.png",
     "Attachments/Pasted image 20250625213423.png",
     "Attachments/Pasted image 20250624221044.png",
-    "Attachments/Pasted image 20250624221021.png",
     "Cheat Sheets/Linux Enum.md",
     "THM/9. HTTP in Detail.md",
     "Cheat Sheets",
     "THM/20. Writing Pentest Reports.md",
     "THM/4. Introductory Researching.md",
     "Labs/Labs HTB.md",
-    "Labs/Light THM.md",
     "Labs",
     "Cybersecurity - SoftUni/Recon_Exam",
     "VulnHub",
