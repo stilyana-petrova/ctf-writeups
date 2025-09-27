@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Linux privesc challenge.md",
+                "file": "HachTheBox/Machines/Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux privesc challenge"
+              "title": "Planning"
             }
           },
           {
@@ -230,6 +230,8 @@
   },
   "active": "0d859a7af2ed04a9",
   "lastOpenFiles": [
+    "Attachments/image.png",
+    "TryHackMe/Linux privesc challenge.md",
     "Attachments/Pasted image 20250927094006.png",
     "Attachments/Pasted image 20250927093929.png",
     "Attachments/Pasted image 20250927093853.png",
@@ -240,9 +242,7 @@
     "Attachments/Pasted image 20250927093222.png",
     "Attachments/Pasted image 20250927092747 - Copy (2).png",
     "Attachments/Pasted image 20250927092747 - Copy.png",
-    "Attachments/Pasted image 20250927092747.png",
-    "HachTheBox/Machines/Untitled.md",
-    "TryHackMe/Linux privesc challenge.md",
+    "HachTheBox/Machines/Planning.md",
     "TryHackMe/Linux Privesc Challenge.md",
     "TryHackMe/Light.md",
     "HachTheBox/Challenges/The Suspicious Reviewer.md",

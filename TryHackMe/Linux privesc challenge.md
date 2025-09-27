@@ -22,7 +22,7 @@ base64 /etc/shadow | base64 -d
 Then I saved the hashed password in a file and decoded it with `john the ripper`:
 ![[../Attachments/Pasted image 20250927093222.png]]
 
-After the password for user `missy` was found I switched the user and submitted the floag1.txt
+After the password for user `missy` was found I switched the user and submitted the flag1.txt
 ![[../Attachments/Pasted image 20250927093400.png]]
 
 After I become the user `missy` I had to identify which commands the user may run as sudo with `sudo -l`:
